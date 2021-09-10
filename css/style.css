@@ -1,0 +1,169 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.linha{
+	width: 960px;
+	margin: 0 auto;
+	overflow: auto;
+	padding: 5px 0;
+}
+.coluna{
+	padding: 0 10px;
+	float: left;
+}
+a:link, a:active, a:visited{
+	color: white;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.col1{
+	width: 60px;
+}
+.col2{
+	width: 140px;
+}
+.col3{
+	width: 220px;
+}
+.col4{
+	width: 300px;
+}
+.col5{
+	width: 380px;
+}
+.col6{
+	width: 460px;
+}
+.col7{
+	width: 540px;
+}
+.col8{
+	width: 620px;
+}
+.col9{
+	width: 750px;
+
+}
+.col10{
+	width: 780px;
+}
+.col11{
+	width: 860px;	
+}
+.col12{
+	width: 940px;
+}
+ul li{
+	margin-bottom: 5px;
+	list-style: none;
+	display: inline;
+}
+.sidebar ul{
+	float: right;
+}
+.sidebar ul li{
+	padding-left: 5px;
+}
+.esquerda{
+	border: 10px;
+}
+.fundo{
+	background: black;
+	color: white;
+}
+.tag{
+	border-radius: 10px;
+}
+.left a{
+	color: black;
+	padding: 10px;
+	float: right;
+	font-weight: 700;
+}
+h2{
+	padding: 0 0 0 320px;
+	margin: 10px 0;
+}
+.up{
+	padding-left: 345px;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+h1.logo{
+	text-align: left;
+	margin: 0;
+	text-transform: capitalize;
+	font-weight: 500;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	font-family: Kunstler Script;
+	font-size: 46.5px;
+	font-style: inherit;
+	
+}
+.lista{
+	text-align: center;
+}
+.nova{
+	background: black;
+	color: white;
+	border-radius: 20px;
+}
+.outra{
+	background: ;
+	color: ;
+	border-radius: ;
+}
+.outra img{
+	border-radius: 20%;
+	padding: 10px 0 5px 0;
+	width: 100px;
+	margin: 10px;
+}
+.conta{
+	background: black;
+	color: white;
+	display: block;
+	height: 190px;
+	text-align: justify;
+	padding: 0 2%;
+	width: 96%;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+.teste{
+	text-align: justify;
+	height: 30px;
+
+}
+.baixo{
+	background: black;
+	color: white;
+	text-align: center;
+	padding: 10px;
+	border-radius: 10px;	
+}
+.vamos{
+	text-align: center;
+}
+.vamos a{
+	color: red;
+}
+.bora{
+	text-transform: capitalize;	
+}
+.aqui a{
+	color: black;
+	font-size: 15px;
+}
+.aqui{
+	font-size: 15px;
+	font-weight: 700;
+}
+.fab{
+	font-size: 16.5px;
+}
