@@ -38,9 +38,6 @@ By Rafael Rosas 👋🏽 Entre em contato!
 
 ---
 
-|                  Home                  |                 About                 |              Services one               |              Services two               |
-| :------------------------------------: | :-----------------------------------: | :-------------------------------------: | :-------------------------------------: |
-| ![Editing Web](assets/photos/one.jpg)  | ![Editing Web](assets/photos/two.jpg) | ![Editing Web](assets/photos/three.jpg) | ![Editing Web](assets/photos/four.jpg)  |
-|              Testimonials              |                Contact                |                 Footer                  |                  Menu                   |
-|      :-------------------------:       |      :-------------------------:      |       :-------------------------:       |       :-------------------------:       |
-| ![Editing Web](assets/photos/five.jpg) | ![Editing Web](assets/photos/six.jpg) | ![Editing Web](assets/photos/seven.jpg) | ![Editing Web](assets/photos/eight.jpg) |
+|            Home             |         Parfums one         |           Newletter           |            Footer            |
+| :-------------------------: | :-------------------------: | :---------------------------: | :--------------------------: |
+| ![Editing Web](img/one.jpg) | ![Editing Web](img/two.jpg) | ![Editing Web](img/three.jpg) | ![Editing Web](img/four.jpg) |
